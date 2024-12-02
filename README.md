@@ -1,1 +1,1 @@
-# bnb-api-2
+# bots-and-botany-api
